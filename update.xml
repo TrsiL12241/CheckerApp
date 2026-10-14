@@ -2,7 +2,7 @@
 <item>
         <!--(อัปเดต / ย้อนเวอร์ชัน)-->
     <version>1.0</version>
-    <url>https://github.com/TrsiL12241/TrsiLChecker/releases/download/v1.0/TrsiLCheckApp.zip</url>
+    <url>https://github.com/TrsiL12241/TrsiLChecker/releases/download/v1.0/TrsiLChecker.zip</url>
     <changelog>https://github.com/TrsiL12241/TrsiLChecker/releases/tag/v1.0</changelog>
         <!--(ใส่ "active" เพื่อเปิดปกติ / ใส่ "maintenance" เพื่อสั่งปิดชั่วคราว)-->
     <status>active</status>
