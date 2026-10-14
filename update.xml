@@ -5,5 +5,5 @@
     <url>https://github.com/TrsiL12241/TrsiLCheckApp/releases/download/v2.0/TrsiLCheckApp.zip</url>
     <changelog>https://github.com/TrsiL12241/TrsiLCheckApp/releases/tag/v2.0</changelog>
         <!--(ใส่ "active" เพื่อเปิดปกติ / ใส่ "maintenance" เพื่อสั่งปิดชั่วคราว)-->
-    <status>maintenance</status>
+    <status>active</status>
 </item>
